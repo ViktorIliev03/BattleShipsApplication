@@ -16,8 +16,9 @@ The application  provide Guest (not logged in) users with the functionality to l
 
 ![image](https://user-images.githubusercontent.com/104733258/199093732-0391bc38-26aa-4e4a-89fd-482215993c42.png)
 
-As after successful registration and entrance we have the opportunity to add a ship
-The application should provide Authenticated (logged in) users with the functionality to logout, add a ship, view home page and ready to fire at other ships.
+As after successful registration and entrance we have the opportunity to add a ship.
+
+The application  provide Authenticated (logged in) users with the functionality to logout, add a ship, view home page and ready to fire at other ships.
 
 ![image](https://user-images.githubusercontent.com/104733258/199095496-a99559ab-1993-4c49-8297-98607ebc0392.png)
  
