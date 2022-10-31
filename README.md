@@ -22,6 +22,8 @@ The application should provide Authenticated (logged in) users with the function
 ![image](https://user-images.githubusercontent.com/104733258/199095496-a99559ab-1993-4c49-8297-98607ebc0392.png)
  
  ![image](https://user-images.githubusercontent.com/104733258/199095725-eb4c5efe-51bb-439b-84c1-462dcb953be8.png)
+ ![image](https://user-images.githubusercontent.com/104733258/199098086-73274221-ac75-4839-9b7c-9b02cfa56d61.png)
+The application  provide the functionality for adding ships with categories and users. Also, the ships should fire at other ships and remove them from the database when their health is lower than or equal to 0.
  
  
 
