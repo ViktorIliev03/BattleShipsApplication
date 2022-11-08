@@ -10,7 +10,7 @@ After we start the application on port 8080 -> localhost:8080
 The application  provide Guest (not logged in) users with the functionality to login, register and view the Index page.
 ![image](https://user-images.githubusercontent.com/104733258/199097175-d140091b-670a-480a-8bff-7a1515a7822b.png)
 
-Оn-assignment, I have to do validations
+I have to do validations
 
 ![image](https://user-images.githubusercontent.com/104733258/199093661-bf1525c8-c8f6-4a31-8fcd-47354ebed115.png)
 
